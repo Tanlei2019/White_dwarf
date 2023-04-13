@@ -1,0 +1,2 @@
+file filter=lfs diff=lfs merge=lfs -text
+2_cnn_model.pt filter=lfs diff=lfs merge=lfs -text
